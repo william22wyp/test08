@@ -7,7 +7,7 @@
 I LOVE YOU
 ```
 > 인용구문 작성
-<img src="https://img.shields.io/badge/ZMT-351A1A?style=flat-square&logo=#29F1FB&logoColor=9C6D6D"/>
+<img src="https://img.shields.io/badge/ZMT-351A1A?style=flat-square&logo=airfrance&logoColor=9C6D6D"/>
 
 [apple](https://www.apple.com/kr/)
 
