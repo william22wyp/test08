@@ -11,4 +11,4 @@ I LOVE YOU
 
 [apple](https://www.apple.com/kr/)
 
-! [git] (https://webudding.com/_next/image/?url=https%3A%2F%2Fd29hudvzbgrxww.cloudfront.net%2Fpublic%2Fproduct%2F20231017094216-61651679-6607-4eef-b4c0-9a81451c37d5.png&w=3840&q=100)
+![git](https://webudding.com/_next/image/?url=https%3A%2F%2Fd29hudvzbgrxww.cloudfront.net%2Fpublic%2Fproduct%2F20231017094216-61651679-6607-4eef-b4c0-9a81451c37d5.png&w=3840&q=100)
